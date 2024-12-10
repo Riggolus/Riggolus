@@ -4,7 +4,7 @@ Here’s a revised version of your text with corrected spelling and grammar:
 
 My name is Nikolas, and I am a software developer.
 
-Portfolio Site: https://66d0dcf96553570d66ac15e9--nikolas-knappen.netlify.app/
+Portfolio Site: https://nikolas-knappen.netlify.app/
 
 Since 2014, I’ve worked in the fitness industry, training athletes of all ages. While I always dabbled in coding, in 2023, I decided to pursue it full-time. I started by exploring free online resources like Harvard’s CS50, which helped me build a strong foundation in software engineering. Along the way, I created various small projects in Python, such as a home automation system with a Raspberry Pi and an emulation of the mobile game 2048.
 
