@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-Here’s a revised version of your text with corrected spelling and grammar:
-
 My name is Nikolas, and I am a software developer.
 
 Portfolio Site: https://nikolas-knappen.netlify.app/
